@@ -1,0 +1,25 @@
+.drag {
+	width: 100px;
+	height: 50px;
+	margin: 5px;
+	text-align: center;
+	line-height: 50px;
+	border-style: solid;
+	border-radius: 5px;
+	background-color: white;
+}
+
+.drop {
+	width: 200px;
+	height: 100px;
+	background-color: lightgray;
+	border-style: dashed;
+	border-color: gray;
+	text-align: center;
+	line-height: 100px;
+}
+
+.drop.hover {
+	background-color: yellow;
+	border-color: red;
+}
