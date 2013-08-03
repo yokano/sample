@@ -1,0 +1,37 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	text-align: center;
+}
+
+.left {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.right {
+	position: absolute;
+	left: 420px;
+	top: 10px;
+}
+
+button {
+	width: 30px;
+	height: 20px;
+}
+
+#to_json {
+	position: absolute;
+	top: 80px;
+	left: 380px;
+}
+
+#to_js {
+	position: absolute;
+	top: 120px;
+	left: 380px;
+}
