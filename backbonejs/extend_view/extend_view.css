@@ -1,0 +1,25 @@
+.drink {
+	width: 100px;
+	height: 150px;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-right-style: solid;
+	float: left;
+	margin-right: 15px;
+}
+
+.filling {
+	position: relative;
+	top: 50px;
+	width: 100px;
+	height: 100px;
+
+}
+
+.coffie .filling {
+	background-color: brown;
+}
+
+.orange_juice .filling {
+	background-color: orange;
+}
