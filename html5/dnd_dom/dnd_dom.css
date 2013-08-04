@@ -1,0 +1,11 @@
+#draggable {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+
+#dropzone {
+	background-color: pink;
+	width: 300px;
+	height: 300px;
+}
