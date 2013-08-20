@@ -1,0 +1,15 @@
+.block {
+	background-color: lightgray;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	cursor: pointer;
+}
+.block:hover {
+	opacity: 0.5;
+}
+
+.green {
+	background-color: lightgreen;
+}
